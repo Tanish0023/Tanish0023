@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanish Aggarwal</h1>
 <h3 align="center">I am a computer science engineering student who is passionate about computers and coding. I aspire to become a software engineer and create innovative solutions for real-world problems.</h3>
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently learning **Blockchain and Web 3.0**
 
 - 👨‍💻 All of my projects are available at [tanish0023.github.io/Portfolio/](tanish0023.github.io/Portfolio/)
 
 - 📫 How to reach me **tanish23aggarwal@gmail.com**
 
-- 📄 Know about my experiences [https://tanish-resume.tiiny.site](https://tanish-resume.tiiny.site)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o3olhXgbe1iCTb2TBXs1ZCiEx9ixZ1Ku/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
